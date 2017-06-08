@@ -1,0 +1,16 @@
+Difference between JVM nd JDK nd JRE:
+
+JVM:   
+    1.JVM means Java virtual Machine.
+    2.The JVM interprets the bycode into the machine code depending upon the operating system.
+    3.Java Virtual Machine provides platform indepence.
+
+JRE:
+    1.JRE means Java Runtime Environment.
+    2.Java Runtime Environment is an used to run a programme in java.
+    3.Java Runtime Environment contains JVM class libraries and other supporting files.
+
+JDK:
+   1.JDK means Java Development Kit.
+   2.Java Development Kit contains tools needed to develop the java programms.
+   3.Java Development Kit is the core component of java environment and provides all the tools. 
